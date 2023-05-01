@@ -16,7 +16,7 @@
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 10
     },
     {
       "id": 4,
@@ -28,7 +28,7 @@
       "id": 5,
       "name": "Rex",
       "image": "https://static.wikia.nocookie.net/disney/images/5/56/Profile_-_Rex.jpeg/revision/latest?cb=20190313050619",
-      "likes": 1
+      "likes": 3
     },
     {
       "id": 6,
@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "pikachu",
+      "image": "https://assets.stickpng.com/images/580b57fcd9996e24bc43c325.png",
+      "likes": 5,
+      "id": 9
+    },
+    {
+      "name": "Pikachu",
+      "image": "https://assets.stickpng.com/images/580b57fcd9996e24bc43c325.png",
+      "likes": 0,
+      "id": 10
     }
   ]
 }
